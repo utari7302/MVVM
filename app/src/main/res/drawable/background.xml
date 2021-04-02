@@ -6,10 +6,10 @@
         android:color="#08114C"/>
 
     <corners
-        android:radius="@dimen/_20sdp"/>
+        android:radius="20dp"/>
 
     <stroke
         android:color="#FFB5B5"
-        android:width="@dimen/_1sdp"/>
+        android:width="2dp"/>
 
 </shape>

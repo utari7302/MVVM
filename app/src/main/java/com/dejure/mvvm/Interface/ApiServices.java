@@ -1,4 +1,4 @@
-package com.dejure.mvvm.Retrofit;
+package com.dejure.mvvm.Interface;
 
 import com.dejure.mvvm.Model.ModelTvShow;
 

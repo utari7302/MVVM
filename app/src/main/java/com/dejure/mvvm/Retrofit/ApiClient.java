@@ -1,6 +1,7 @@
 package com.dejure.mvvm.Retrofit;
 
 import com.dejure.mvvm.Constants.CONST;
+import com.dejure.mvvm.Interface.ApiServices;
 
 import okhttp3.OkHttpClient;
 import okhttp3.Request;

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">BeeLike</string>
+    <string name="app_name" translatable="false">MVVM</string>
     <string name="buy_credits">Buy Credits</string>
     <string name="your_new_password_must_be_different_nfrom_previous_used_password">Your new password must be different\nfrom previous used password.</string>
     <string name="password">Password</string>
